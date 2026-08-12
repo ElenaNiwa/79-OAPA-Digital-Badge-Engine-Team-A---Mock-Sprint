@@ -1,13 +1,17 @@
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Authentication',
+  title: 'OAPA Badge Engine',
 }
 
-export default function AuthLayout({ children }: { children: React.ReactNode }) {
+export default function AuthLayout({
+  children,
+}: Readonly<{
+  children: React.ReactNode
+}>) {
   return (
-    <div className="min-h-screen flex items-center justify-center bg-zinc-50 dark:bg-zinc-950 px-4">
-      <div className="w-full max-w-sm">{children}</div>
+    <div className="flex min-h-screen items-center justify-center bg-[#efede8] px-4">
+      <div className="w-full max-w-[340px]">{children}</div>
     </div>
   )
 }
