@@ -1,4 +1,4 @@
-# Task 6 – Login → Redirect → Team Page Testing
+# Task 7 – Login → Redirect → Team Page Testing
 
 **Tester:** Shamim Ud Doula Shawon  
 **Role:** Dev 2  
@@ -43,4 +43,4 @@ The team-member content displayed correctly.
 **Result:** PASS
 
 ## Overall Result
-Task 6 testing passed. No issues were found during the normal login and redirect flow.
+Task 7 testing passed. No issues were found during the normal login and redirect flow.
