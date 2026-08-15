@@ -6,3 +6,4 @@
 - [Design](docs/team79-OAPA-A1T2_Design.md): link to the clickable wireframe/prototype (Figma)
 - [Test Report: Login Flow](docs/team79-OAPA-A1T2_Test-Login-Flow.md): testing for the login → redirect → team page flow
 - [Test Report: Edge Cases](docs/team79-OAPA-A1T2_Test-Edge-Cases.md): testing for edge cases (missing photo, long blurb, invalid login, direct access without login)
+- [Sign-off](docs/team79-OAPA-A1T2_Sign-off.md): final review and sign-off

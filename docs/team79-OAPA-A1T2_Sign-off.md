@@ -1,7 +1,9 @@
 # Sign-Off — Login Restyling Bootstrap Feature
 
-**Task:** [Login Restyling Bootstrap] Task 9: Final Review & Sign-Off
-**Role:** PM: Rayne Suaiso
+**Task:** [Login Restyling Bootstrap] Task 9, Final Review & Sign-Off
+
+**Role:** PM, Rayne Suaiso
+
 **Date:** Saturday, 15 August 2026
 
 ---
@@ -31,6 +33,6 @@ All prior tasks on the board were reviewed and confirmed complete before sign-of
 
 ## Outcome
 
-**Approved.** The feature is confirmed complete, working as intended, and matching the agreed requirements and design. No outstanding issues.
+**Approved:** The feature is confirmed complete, working as intended, and matching the agreed requirements and design. No outstanding issues.
 
 **Note for next role:** None. Feature complete.
